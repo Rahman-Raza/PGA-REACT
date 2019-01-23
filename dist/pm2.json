@@ -1,0 +1,9 @@
+{
+  "name": "PGA-React",
+  "script": "server.js",
+  "instances": "0",
+  "env": {
+    "NODE_ENV": "production"
+  }
+  
+}
